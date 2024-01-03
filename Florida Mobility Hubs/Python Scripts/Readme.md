@@ -1,10 +1,9 @@
 # Analysis Process Folder - Python Scripts
 
-This folder contains Python code used in the mobility hub projects. The code is structured to perform specific tasks related to data analysis.
-
+This folder contains Python code used in the mobility hub projects.
 ## Overview
 
-The processes in this folder involve conducting non-spatial data analysis and certain spatial data analyses not addressed in ArcGIS.
+The processes in this folder involve conducting non-spatial data analysis and certain spatial data analyses not addressed in ArcGIS. The codes are structured to perform specific tasks.
 
 ## Contents
 
