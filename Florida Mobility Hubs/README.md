@@ -4,5 +4,5 @@ This folder contains the tools developed for the mobility hub project.
 
 ## Contents
 
-- **ArcGIS Toolboxes**
+- **ArcGIS Toolbox**
 - **Python scripts**
