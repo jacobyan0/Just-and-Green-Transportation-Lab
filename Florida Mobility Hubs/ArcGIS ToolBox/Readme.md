@@ -1,4 +1,4 @@
-# Analysis Process Folder - ArcGIS Toolboxes
+# Analysis Process Folder - ArcGIS Toolbox
 
 This folder contains the ArcGIS Toolbox developed for the the mobility hub project.
 
@@ -6,7 +6,6 @@ This folder contains the ArcGIS Toolbox developed for the the mobility hub proje
 
 The Toolbox in this folder involves tools that conduct spatial data analysis in ArcGIS. The tools are structured to perform specific tasks.
 
-## Contents
 
 - **spatial_units**: Clustering the bus stops with DBSCAN algorithm, and generate spatial units.
 - **microtransit_scooter**: Calculate the fmlm connectivity criterion of the spatial units.
