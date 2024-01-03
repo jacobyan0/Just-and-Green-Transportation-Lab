@@ -4,7 +4,7 @@ This folder contains the ArcGIS Toolbox developed for the the mobility hub proje
 
 ## Overview
 
-The Toolbox in this folder involves tools that conduct spatial data analysis in ArcGIS. The tools are structured to perform specific tasks.
+The Toolbox in this folder involves tools that conduct spatial data analysis in ArcGIS. The tools are structured to perform specific tasks:
 
 
 - **spatial_units**: Clustering the bus stops with DBSCAN algorithm, and generate spatial units.
