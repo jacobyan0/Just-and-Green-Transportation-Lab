@@ -7,7 +7,6 @@ The processes in this folder involve conducting non-spatial data analysis and ce
 
 ## Contents
 
-- **GTFS_process**: Process the GTFS data.
 - **transit_ridership_and_supply**: Calculate the transit index.
 - **socioeconomic, socioeconomic_access_road**: Calculate the sub criteria for the socioeconomic index, the accessibility index, and the infrastructure index.
 - **fmlm_gap_score**: Calculate the fmlm_gap score, a sub criterion in the FM/LM connectivity index.
