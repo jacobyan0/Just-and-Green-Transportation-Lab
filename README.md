@@ -1,6 +1,6 @@
 # Just and Green Transportation Lab Code Repository
 
-This page contains codes developed by the lab for various projects. For specific project details, please refer to the respective folders.
+This page contains tools and codes developed by the lab for various projects. For specific project, please refer to the respective folders.
 
 ## Contents
 
