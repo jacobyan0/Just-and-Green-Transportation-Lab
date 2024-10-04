@@ -44,7 +44,7 @@ print(f"Start Node Lat/Lon: {start_latlon}")
 print(f"End Node Lat/Lon: {end_latlon}")
 
 # Step 4: 使用Google Street View API获取四张fov=90的图像，覆盖360度
-api_key_gsv = 'AIzaSyDvP5c4Xns4m2NvfTM7PNDZxBjccLMdq94'  # 需要提供你的Google Street View API密钥
+api_key_gsv = 'YOUR_API_KEY'  # 需要提供你的Google Street View API密钥
 gsv_base_url = "https://maps.googleapis.com/maps/api/streetview"
 
 params = [{
@@ -63,7 +63,7 @@ for param in params:
     images.append(img)
 
 # Step 5: 调用Roboflow的API进行跨步道识别
-api_key_rf = 'kFvCDR803wSq3W8Shf90'  # 填写你的Roboflow API密钥
+api_key_rf = 'YOUR_ROBOFLOW_API_KEY'  # 填写你的Roboflow API密钥
 model_id = 'crosswalk-pfps1'  # 模型ID
 version_number = 2  # 模型版本
 
