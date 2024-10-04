@@ -217,7 +217,7 @@ def one_row(original_coordinates,stop_name, file_name, stop_code, stop_id):
     step = 0
     global total_counts
     total_counts = Counter()
-    api_key = 'AIzaSyDvP5c4Xns4m2NvfTM7PNDZxBjccLMdq94'  
+    api_key = 'YOUR_API_KEY'  
     parent_directory = file_name+"_imgs" 
     lat, lon = original_coordinates
     if not os.path.exists(parent_directory):
