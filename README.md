@@ -2,7 +2,7 @@
 
 This page contains tools and codes developed by the lab for various projects. For specific project, please refer to the respective folders.
 
-## Contents
+## Projects
 - **Bus Stop Assessment**
 This folder contains the Python code for automatic detection of bus stop amenities with computer vision and street view images. Read more about the study here: 
 https://www.sciencedirect.com/science/article/pii/S0198971525000079?dgcid=author
